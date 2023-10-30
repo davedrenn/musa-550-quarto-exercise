@@ -5,7 +5,7 @@ project:
     port: 3333
 
 website:
-  title: "Quarto Exercise Example - Dave Drennan"
+  title: "Quarto Exercise Example"
   site-url: "https://davedrenn.github.io/musa-550-quarto-exercise" 
   repo-url: https://davedrenn.github.io/musa-550-quarto-exercise
   repo-actions: [source]
