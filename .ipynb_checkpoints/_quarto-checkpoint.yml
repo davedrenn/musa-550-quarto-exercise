@@ -5,29 +5,23 @@ project:
     port: 3333
 
 website:
-  title: "Quarto Exercise Example"
+  title: "Quarto Exercise Example - Dave Drennan"
   site-url: "https://davedrenn.github.io/musa-550-quarto-exercise" 
   repo-url: https://davedrenn.github.io/musa-550-quarto-exercise
   repo-actions: [source]
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Nick Hand, 2023"
+    left: "&copy; CC-Dave Drennan, 2023"
 
   sidebar:
     logo: "images/course-icon.png"
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
       - icon: github
         href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        text: "MUSA 550 GitHub"      
 
     style: "docked"
     search: true
